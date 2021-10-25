@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Metrics](https://github.com/muzhou233/muzhou233/blob/master/github-metrics.svg)
+![Metrics](https://github.com/dmqi/dmqi/blob/master/github-metrics.svg)
 
 - :musical_score: I'm good at playing the violin and used to participate in symphony orchestras.
 - :crown: I'm working as a software engineer (backend) in [Tencent-WeChat Group](https://github.com/tencent-wechat), based in Guangzhou.
