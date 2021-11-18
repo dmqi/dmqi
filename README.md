@@ -7,3 +7,5 @@ Previous intern at [Tencent-WeChat](https://github.com/tencent-wechat).
 I'm interested in blockchain, machine learning and distributed systems. 
 
 I'm learning defi and rust now.
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ckend&layout=compact">
