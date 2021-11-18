@@ -8,4 +8,4 @@ I'm interested in blockchain, machine learning and distributed systems.
 
 I'm learning defi and rust now.
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ckend&layout=compact">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmqi&layout=compact">
