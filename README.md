@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Incoming software engineer in [Pony.ai](https://pony.ai), based in Guangzhou.
+Software engineer in [Pony.ai](https://pony.ai), based in Guangzhou.
 
 Previous intern at [Tencent-WeChat](https://github.com/tencent-wechat).
 
