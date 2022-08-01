@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-Software engineer in [Pony.ai](https://pony.ai), based in Guangzhou.
+Quantitative Developer at Crypto Prop Trading Firm.
 
-Previous intern at [Tencent-WeChat](https://github.com/tencent-wechat).
+Previous intern at [Pony.ai](https://pony.ai), [Tencent-WeChat](https://github.com/tencent-wechat).
 
 I'm interested in blockchain and distributed systems. 
 
