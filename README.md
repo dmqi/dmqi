@@ -2,7 +2,7 @@
 
 Diving full-time into crypto.
 
-Now working at 4alpha capital as a core developer.
+Now working at 4Alpha Capital as a core developer.
 
 Previous intern at [Pony.ai](https://pony.ai), [Tencent-WeChat](https://github.com/tencent-wechat).
 
