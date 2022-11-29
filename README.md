@@ -6,4 +6,6 @@ Now working at [4Alpha Capital](https://4alpha-capital.com/) as a core developer
 
 Previous intern at [Pony.ai](https://pony.ai), [WeChat](https://weixin.qq.com/).
 
+Familiar with C++11/20, high-frequency trading infrastructure.
+
 Learning and doing defi and crypto trading now.
