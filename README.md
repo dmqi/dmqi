@@ -2,4 +2,4 @@
 
 Engineer at 4Alpha Capital
 
-I build trading system and trade coins.
+I build ultra low latency trading system and trade coins.
